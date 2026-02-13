@@ -1,14 +1,14 @@
-# Privacy Policy for Cadence: DoD Tracker
+# Privacy Policy for Endurien: DoD Tracker
 
 **Last Updated:** December 28, 2025
 
 ## Introduction
 
-Cadence: DoD Tracker ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Endurien: DoD Tracker ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Data Collection
 
-Cadence collects the following types of data:
+Endurien collects the following types of data:
 
 ### Workout Session Data
 
@@ -89,4 +89,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-_This privacy policy applies to Cadence: DoD Tracker version 1.0 and later._
+_This privacy policy applies to Endurien: DoD Tracker version 1.0 and later._
