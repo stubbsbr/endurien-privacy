@@ -1,4 +1,4 @@
-# Cadence: DoD Tracker - Support
+# Endurien: DoD Tracker - Support
 
 **Need help? We're here for you.**
 
@@ -14,7 +14,7 @@ We typically respond within 24-48 hours.
 
 ## About the Challenge
 
-**The Daily over Decades (DoD) challenge was created by [Garage Gym Athlete](https://www.garagegymathlete.com/daily-over-decades).** Cadence: DoD Tracker is an independent app designed to help you track your progress through this challenge.
+**The Daily over Decades (DoD) challenge was created by [Garage Gym Athlete](https://www.garagegymathlete.com/daily-over-decades).** Endurien: DoD Tracker is an independent app designed to help you track your progress through this challenge.
 
 ---
 
@@ -57,7 +57,7 @@ A: Any app that syncs to Apple Health will work, including:
 A: No, the app prevents duplicates by tracking which workouts have already been imported.
 
 **Q: Can I revoke Apple Health access?**  
-A: Yes, go to iOS Settings → Privacy & Security → Health → Cadence, and toggle off the permissions you want to revoke.
+A: Yes, go to iOS Settings → Privacy & Security → Health → Endurien, and toggle off the permissions you want to revoke.
 
 ### Data & Privacy
 
@@ -145,10 +145,10 @@ For information about how we handle your data, see our [Privacy Policy](https://
 
 **The Daily over Decades challenge was created by [Garage Gym Athlete](https://www.garagegymathlete.com/daily-over-decades).**
 
-Cadence: DoD Tracker is an independent mobile app designed to help you track your progress through the DoD challenge. We are not affiliated with Garage Gym Athlete, but we want to give proper credit to the creators of this excellent fitness challenge.
+Endurien: DoD Tracker is an independent mobile app designed to help you track your progress through the DoD challenge. We are not affiliated with Garage Gym Athlete, but we want to give proper credit to the creators of this excellent fitness challenge.
 
 For more information about Garage Gym Athlete and their training programs, visit [garagegymathlete.com](https://www.garagegymathlete.com/daily-over-decades).
 
 ---
 
-_Last Updated: December 28, 2025_
+_Last Updated: February 12, 2026_
